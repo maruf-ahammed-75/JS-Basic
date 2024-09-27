@@ -1,1 +1,1 @@
-console.log("MaruF")
+console.log("MaruF")//output
