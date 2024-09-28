@@ -41,13 +41,6 @@ let s3 = s1+ " " + s2
 console.log(s1+" "+s2);
 console.log(s3);
 
-console.log("2"+2+2);
-console.log(2+2+"2");
+console.log("2"+2+2);// = 222
+console.log(2+2+"2");//=42 //jayta first a asbe oyta hisabe kaj korbe
 
-
-
-
-
-
-
- 
