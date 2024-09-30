@@ -24,6 +24,6 @@ console.log(s.trim());//trim space remove kore
 
 
 const s2 = "sdfsd1 sdsdsd 1 wdsd 1 11 1 ewew ew1 1 1 1 "
-console.log(s2.replace('1','-'));
+console.log(s2.replace('1','-'));///first ar ta remove korbe
 
 
