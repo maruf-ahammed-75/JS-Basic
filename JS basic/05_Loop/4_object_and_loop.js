@@ -1,0 +1,23 @@
+//Object
+const myObject = {
+    ///key   ///value
+        1: 'js',
+        2: 'C++',
+        3: "c",
+        4: "Py",
+    }
+    for (const key in myObject) {
+        // console.log(`${key} shortcut is for ${myObject[key]}`);
+    }
+    
+    const programming = ["js", "rb", "py", "java", "cpp"]
+    
+    for (const key in programming) {
+        //console.log(programming[key]);
+    }
+    
+    
+    
+    
+    
+    
